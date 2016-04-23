@@ -9,8 +9,8 @@
 
 
 // Configuration: 
-#define WIFI_NAME       "tony-2.4"       // Your WiFi AP.
-#define WIFI_PASSWORD   "101tdicola"     // Your WiFi AP password.
+#define WIFI_NAME       "...WiFi AP..."  // Your WiFi AP.
+#define WIFI_PASSWORD   "...password..." // Your WiFi AP password.
 #define LED_PIN         2                // Pin connected to the LED.
 #define SERVER_PORT     5000             // Port the server will listen for connections.
 #define SERVER_NAME     "esp8266-thing"  // mDNS name to use for the server.
