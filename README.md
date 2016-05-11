@@ -7,3 +7,5 @@ Repository with code and other support material for the Raspberry Pi Talking To 
 [Rapsberry Pi Talking To WiFi 'Things' Part 2 Video](https://www.youtube.com/watch?v=tR_oiOqHF30)
 
 [Raspberry Pi Talking To WiFi 'Things' Part 3 Video](https://youtu.be/4K-0iQBalfs)
+
+[Raspberry Pi Talking To WiFi 'Things' Part 4 Video](https://www.youtube.com/watch?v=P-IpxYwb9iw)
